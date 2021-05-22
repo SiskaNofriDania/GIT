@@ -241,3 +241,5 @@ You can see code coverage output under the `tests/_output` directory.
 # Tugas-PHP-CRUD-PPWF-
 # Tugas-PHP-CRUD-PPWF-
 # Tugas-PHP-CRUD-PPWF-
+# Tugas-WEB-CRUD-GI
+# Tugas
